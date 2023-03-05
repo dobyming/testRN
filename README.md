@@ -4,10 +4,7 @@ This Repository describes how to set up the React Native in expo.
 
 ## Before start..
 
-<img src="https://img.shields.io/badge/node.js-6DA55F?style=flat-square&logo=Node.js&logoColor=white"/>
-<img src="https://img.shields.io/badge/VScode-007ACC?style=flat-square&logo=Visual Studio Code&logoColor=white"/>
-<img src="https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=flat-square&logo=android-studio&logoColor=white"/>
-	
+<img src="https://img.shields.io/badge/node.js-6DA55F?style=flat-square&logo=Node.js&logoColor=white"/> <img src="https://img.shields.io/badge/VScode-007ACC?style=flat-square&logo=Visual Studio Code&logoColor=white"/> <img src="https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=flat-square&logo=android-studio&logoColor=white"/>
 You're local computer need `Node.js`, `VS Code`, and `Android Studio`.
 
 ## Start your Project
