@@ -1,6 +1,6 @@
 # Start React Native
 
-This Repository describes how to set up the React Native in expo.
+This Repository describes how to set up the React Native in expo. Also This Project's OS Env runs in Windows.
 
 ## Before start..
 
